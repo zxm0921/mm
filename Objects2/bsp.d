@@ -1,0 +1,16 @@
+.\objects\bsp.o: ..\BSP\bsp.c
+.\objects\bsp.o: ..\BSP\bsp.h
+.\objects\bsp.o: G:\120\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\bsp.o: G:\120\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\bsp.o: ..\uC-CPU\ARM-Cortex-M4\RealView\cpu.h
+.\objects\bsp.o: ..\uC-CPU\cpu_def.h
+.\objects\bsp.o: ..\APP\cpu_cfg.h
+.\objects\bsp.o: ..\uC-CPU\cpu_core.h
+.\objects\bsp.o: ..\uC-LIB\lib_def.h
+.\objects\bsp.o: ..\uC-LIB\lib_mem.h
+.\objects\bsp.o: ..\uC-CPU\cpu_core.h
+.\objects\bsp.o: ..\APP\lib_cfg.h
+.\objects\bsp.o: ..\uC-LIB\lib_str.h
+.\objects\bsp.o: ..\uC-LIB\lib_ascii.h
+.\objects\bsp.o: .\RTE\Device\STM32F407ZE\stm32f4xx_conf.h
+.\objects\bsp.o: .\RTE\RTE_Components.h
